@@ -1,0 +1,9 @@
+[submodule "packages/widgets"]
+	path = packages/widgets
+	url = https://github.com/silentmoooon/widgets.git
+[submodule "packages/web3-wallets"]
+	path = packages/web3-wallets
+	url = https://github.com/silentmoooon/web3-wallets.git
+[submodule "packages/web3-payments"]
+	path = packages/web3-payments
+	url = https://github.com/silentmoooon/web3-payments.git
